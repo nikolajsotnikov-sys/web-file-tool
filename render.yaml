@@ -4,4 +4,3 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    dockerCommand: ""
